@@ -1,6 +1,6 @@
 <?php
 session_start();
-$con=mysqli_connect('localhost', 'root', '9636463361', '');
+$con=mysqli_connect('localhost', 'root', '', '');
 if($con){
 	echo "connected";
 }else{

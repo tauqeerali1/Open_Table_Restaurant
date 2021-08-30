@@ -1,7 +1,7 @@
 <?php
 session_start();
 header('location:login.html');
-$con=mysqli_connect('localhost', 'root', '9636463361', 'user');
+$con=mysqli_connect('localhost', 'root', '9636463361', 'u');
 if($con){
 	echo "connection successful";
 }else{

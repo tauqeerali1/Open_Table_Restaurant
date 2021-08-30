@@ -1,6 +1,6 @@
 <?php
 session_start();
-$con=mysqli_connect('s', '', '', '');
+$con=mysqli_connect('s', 's', '', '');
 if($con){
 	echo "connected";
 }else{

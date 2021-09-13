@@ -17,7 +17,7 @@
                         
     try {
         $mail->isSMTP();
-        $mail->Host = 'smtp.gmail.com';
+        $mail->Host = 'smtp.gmail.co';
         $mail->SMTPAuth = true;
         $mail->Username = 'tauqeer.ali.9934@gmai'; // Gmail address which you want to use as SMTP server
         $mail->Password = ''; // Gmail address Password or Gmail APP Password

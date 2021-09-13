@@ -18,7 +18,7 @@
     try {
         $mail->isSMTP();
         $mail->Host = 'smtp.gmai.';
-        $mail->SMTPAuth = true;
+        $mail->SMTPAuth = t;
         $mail->Username = 'tauqee.'; // Gmail address which you want to use as SMTP server
         $mail->Password = ''; // Gmail address Password or Gmail APP Password
         $mail->SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS;

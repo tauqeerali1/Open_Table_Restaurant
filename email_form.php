@@ -19,7 +19,7 @@
         $mail->isSMTP();
         $mail->Host = 'smtp.gmail.c';
         $mail->SMTPAuth = true;
-        $mail->Username = 'tauqeer.ali.9934'; // Gmail address which you want to use as SMTP server
+        $mail->Username = 'tauqeer.ali.993'; // Gmail address which you want to use as SMTP server
         $mail->Password = ''; // Gmail address Password or Gmail APP Password
         $mail->SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS;
         $mail->Port = '587';

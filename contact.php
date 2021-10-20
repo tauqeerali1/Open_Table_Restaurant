@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<meta charset="utf-7">
+	<meta charset="utf-8">
 	<title>DAA Project | Resturant</title>
 	<link rel="stylesheet" type="text/css" href="contact.css">
 	 <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css">
